@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sambhav-NITH/javascript-projects/issues"
   },
-  "homepage": "https://github.com/Sambhav-NITH/javascript-projects#readme"
+  "homepage": "https://github.com/Sambhav-NITH/javascript-projects#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
