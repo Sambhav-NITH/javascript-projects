@@ -6,8 +6,7 @@ var playerscore = 0;
 
 var cscore = 0;
 
-while (m === "y" || m === "Y") {
-
+while (m === "y" || m === "Y") {                
 
     let a = parseInt(Math.random() * 3);
     let b;
